@@ -121,7 +121,9 @@ model.predict(X_n1_1 value)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://github.com/22008008/basic-nn-model/assets/118343520/cebcd648-079b-4db2-b3b7-efdcb10b058e)
+
+
 
 ## OUTPUT
 

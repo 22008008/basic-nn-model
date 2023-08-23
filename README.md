@@ -11,9 +11,9 @@ A neural network with multiple hidden layers and multiple nodes in each hidden l
 In this basic NN Model, we have used "relu" activation function in input and hidden layer, relu(RECTIFIED LINEAR UNIT) Activation function is a piece-wise linear function that will output the input directly if it is positive and zero if it is negative.
 
 ## Neural Network Model
-```
-<img width="442" alt="nn (2)" src="https://github.com/22008008/basic-nn-model/assets/118343520/6c23cbb1-2fbe-4688-8bc1-a3e122382fc3">
-```
+
+![image](https://github.com/22008008/basic-nn-model/assets/118343520/b95505cd-d113-4557-8000-d302b7274405)
+
 
 
 ## DESIGN STEPS

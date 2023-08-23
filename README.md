@@ -135,10 +135,11 @@ model.predict(X_n1_1 value)
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+1/1 [==============================] - 0s 265ms/step - loss: 2116.7065
 
 ### New Sample Data Prediction
-
-Include your sample input and output here
-
+```
+1/1 [==============================] - 0s 215ms/step
+array([[158.81854]], dtype=float32)
+```
 ## RESULT

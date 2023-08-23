@@ -143,3 +143,6 @@ model.predict(X_n1_1 value)
 array([[158.81854]], dtype=float32)
 ```
 ## RESULT
+```
+Thus the neural network regression model for the given dataset is executed successfully.
+```

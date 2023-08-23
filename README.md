@@ -127,7 +127,8 @@ Include screenshot of the dataset
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+[image](https://github.com/22008008/basic-nn-model/assets/118343520/7d346db4-72d1-4a29-bd54-abbfc6d581b6)
+
 
 ### Test Data Root Mean Squared Error
 
